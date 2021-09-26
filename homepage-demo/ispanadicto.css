@@ -1,0 +1,179 @@
+@font-face {
+  font-family: "icomoon";
+  src: url("./instruments/Icons/icomoon.eot");
+  src: url("./instruments/Ispanadicto/icon/icomoon.eot?#iefix") format("embedded-opentype"), url("./instruments/Ispanadicto/icon/icomoon.woff") format("woff"), url("./instruments/Ispanadicto/icon/icomoon.ttf") format("truetype"), url("./instruments/Ispanadicto/icon/icomoon.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+[data-icon]:before {
+  font-family: "icomoon";
+  content: attr(data-icon);
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+}
+
+.background {
+  background-image: url(./instruments/Ispanadicto/images/1.svg);
+  width: 100%;
+  height: 400px;
+}
+
+.form {
+  height: 50px;
+}
+
+#search {
+  border-radius: 30px;
+  border: white;
+}
+
+#search-box {
+  height: 40px;
+  border-radius: 20px;
+  border: 1 px solid #671da3;
+  position: relative;
+}
+
+.card {
+  float: left;
+}
+
+#card-icon {
+  width: 40px;
+  height: 40px;
+  margin-left: 35%;
+  margin-top: 10%;
+}
+
+.card {
+  width: 177px;
+  height: 112px;
+  float: left;
+  padding-top: 13px;
+  border-radius: 5px !important;
+}
+
+.card h5 {
+  color: #343a40;
+}
+
+#first {
+  border-left: 3px solid #a155ed;
+}
+
+#second {
+  border-left: 3px solid #ed5555;
+}
+
+#third {
+  border-left: 3px solid #5bd759;
+}
+
+#fourth {
+  border-left: 3px solid #ff8a35;
+}
+
+#fifth {
+  border-left: 3px solid #ff8a35;
+}
+
+.icon-div {
+  border-radius: 50%;
+  background-color: #711fb2;
+  width: 34px;
+  height: 34px;
+  position: absolute;
+  right: -94%;
+  top: -36px;
+  position: relative;
+}
+
+#icon-search {
+  color: white;
+  font-size: large;
+  position: absolute;
+  top: 7px;
+  left: 7px;
+}
+
+#speaker {
+  cursor: pointer;
+  color: #711fb2;
+}
+
+.card-bottom {
+  height: 150px;
+  border-top: 3px solid #711fb2;
+  padding: 10px;
+  -webkit-box-shadow: 3px 3px 3px 3px #e3e3e3;
+          box-shadow: 3px 3px 3px 3px #e3e3e3;
+  border-radius: 10px;
+}
+
+.card-bottom span {
+  color: #711fb2;
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+.card-bottom #daily-word {
+  margin-left: 40%;
+}
+
+#network {
+  color: #711fb2;
+  float: right;
+  margin-left: 40px;
+  margin-right: 30px;
+  font-size: 20px;
+}
+
+.footer {
+  height: 180px;
+  background-image: url(./instruments/Ispanadicto/images/2.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #6c757d;
+}
+
+#logo {
+  width: 50px;
+  height: 50px;
+  margin-left: 12%;
+}
+
+#line {
+  margin-left: 20px;
+  padding-right: 20px;
+  color: #dddddd;
+}
+
+.active-bar {
+  width: auto;
+  height: 35px;
+  background-color: #641d9e;
+  border-radius: 5px;
+  color: white !important;
+}
+
+.list ul {
+  list-style: none;
+  background-color: #ffffff;
+  border-radius: 5px !important;
+  padding: 5px 0;
+}
+
+.list ul li {
+  background-color: #f4f4f4;
+  margin: 10px 10px 0 10px;
+}
+
+.list ul li p {
+  padding: 0;
+  margin: 0 0 0 5px;
+}
+/*# sourceMappingURL=ispanadicto.css.map */

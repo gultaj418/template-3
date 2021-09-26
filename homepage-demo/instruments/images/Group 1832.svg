@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="414" height="431" viewBox="0 0 414 431">
+  <defs>
+    <filter id="Rectangle_86" x="32" y="67" width="133" height="130" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-color="#f5e3f9" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1832" data-name="Group 1832" transform="translate(-1228 -1928)">
+    <rect id="Rectangle_14" data-name="Rectangle 14" width="414" height="431" rx="20" transform="translate(1228 1928)" fill="#fff"/>
+    <text id="_24h_7_Days_Support" data-name="24h/7 Days Support" transform="translate(1290 2144)" font-size="30" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">24h/7 Days Support</tspan></text>
+    <text id="Donec_tempor_finibus_ante_ac_luctus._Fusce_facilisis_nisi._Donec_tempor_finibus_ante_ac_luctus._Fusce_facilisis_nisi_tempor_finibus_ante_ac_luctus_facilisi." data-name="Donec tempor finibus ante ac luctus. 
+Fusce facilisis nisi. Donec tempor finibus 
+ante ac luctus.  Fusce facilisis nisi tempor 
+finibus ante ac luctus facilisi." transform="translate(1290 2190)" fill="#7e92ac" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Donec tempor finibus ante ac luctus. </tspan><tspan x="0" y="26">Fusce facilisis nisi. Donec tempor finibus </tspan><tspan x="0" y="52" xml:space="preserve">ante ac luctus.  Fusce facilisis nisi tempor </tspan><tspan x="0" y="78">finibus ante ac luctus facilisi.</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 1228, 1928)" filter="url(#Rectangle_86)">
+      <rect id="Rectangle_86-2" data-name="Rectangle 86" width="73" height="70" rx="15" transform="translate(62 87)" fill="#ffe014" opacity="0.1"/>
+    </g>
+    <g id="Group_30" data-name="Group 30" transform="translate(413 -29)">
+      <ellipse id="Ellipse_31" data-name="Ellipse 31" cx="12.715" cy="12.341" rx="12.715" ry="12.341" transform="translate(900.547 2066.921)" fill="none" stroke="#feb301" stroke-miterlimit="10" stroke-width="2"/>
+      <circle id="Ellipse_32" data-name="Ellipse 32" cx="18.262" cy="18.262" r="18.262" transform="translate(895 2061)" fill="none" stroke="#feb301" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Line_8" data-name="Line 8" x2="4.294" y2="3.756" transform="translate(899.288 2067.505)" fill="none" stroke="#feb301" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Line_9" data-name="Line 9" x2="3.135" y2="4.935" transform="translate(904.158 2063.427)" fill="none" stroke="#feb301" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Line_10" data-name="Line 10" y1="4.954" x2="3.035" transform="translate(920.347 2064.059)" fill="none" stroke="#feb301" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Line_11" data-name="Line 11" y1="3.151" x2="4.737" transform="translate(923.366 2068.62)" fill="none" stroke="#feb301" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Line_12" data-name="Line 12" y1="3.756" x2="4.294" transform="translate(899.288 2087.097)" fill="none" stroke="#feb301" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Line_13" data-name="Line 13" y1="4.935" x2="3.135" transform="translate(904.158 2089.995)" fill="none" stroke="#feb301" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Line_14" data-name="Line 14" x2="3.035" y2="4.954" transform="translate(920.347 2089.345)" fill="none" stroke="#feb301" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Line_15" data-name="Line 15" x2="4.737" y2="3.151" transform="translate(923.366 2086.587)" fill="none" stroke="#feb301" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
